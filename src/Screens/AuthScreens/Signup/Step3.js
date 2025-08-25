@@ -19,7 +19,7 @@ import { useIsFocused } from '@react-navigation/native';
 import { useNavigation, useRoute } from "@react-navigation/core";
 import DateTimePickerModal from "react-native-modal-datetime-picker";
 import { launchImageLibrary } from 'react-native-image-picker';
-import DocumentPicker from "react-native-document-picker"
+// import DocumentPicker from "react-native-document-picker"
 
 import { styles, whole } from "../../../assets/styling/stylesheet";
 import LoginStyles from "./styles";

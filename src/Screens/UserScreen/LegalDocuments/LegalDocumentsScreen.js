@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { EventRegister } from "react-native-event-listeners";
 import DateTimePickerModal from "react-native-modal-datetime-picker";
 import { launchImageLibrary } from "react-native-image-picker";
-import DocumentPicker from "react-native-document-picker";
+// import DocumentPicker from "react-native-document-picker";
 import FastImage from "react-native-fast-image";
 import { useIsFocused } from "@react-navigation/native";
 import { useDispatch, useSelector } from "react-redux";
