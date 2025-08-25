@@ -4,3 +4,10 @@ extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autoli
 rootProject.name = 'deliverydost'
 include ':app'
 includeBuild('../node_modules/@react-native/gradle-plugin')
+
+
+include ':react-native-background-actions'
+project(':react-native-background-actions').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-background-actions/android')
+
+include ':react-native-compressor'
+project(':react-native-compressor').projectDir = new File(rootProject.projectDir,'../node_modules/react-native-compressor/android')

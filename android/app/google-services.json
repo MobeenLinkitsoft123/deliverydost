@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288407001126",
+    "firebase_url": "https://deliverymanagementsystem-8339a.firebaseio.com",
+    "project_id": "deliverymanagementsystem-8339a",
+    "storage_bucket": "deliverymanagementsystem-8339a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288407001126:android:2338c8458ab0120d432ee7",
+        "android_client_info": {
+          "package_name": "com.deliverydost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288407001126-ak3ndmqtr752cgm2a0t8ckvl4qv8b08l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalwxLFftN2bL74grohexf5YARLqVhwlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288407001126-ak3ndmqtr752cgm2a0t8ckvl4qv8b08l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "288407001126-e434khb5k4h29gadvre381qmr7vv67in.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.linkitsoft.deliverydost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
